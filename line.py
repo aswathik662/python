@@ -1,0 +1,1 @@
+print(int input("enter the first number"))**intinput("enter the 2nd number")

@@ -1,0 +1,1 @@
+this is write commandthis is write command in file
